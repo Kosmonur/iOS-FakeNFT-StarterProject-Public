@@ -33,9 +33,7 @@
 
 ## Скриншоты
 
-<img width="200" alt="Cart" src="https://github.com/Kosmonur/iOS-FakeNFT-StarterProject-Public/blob/22187aaabbff9cd57b938ca286eaf01ce8f9864c/FakeNFT/Assets.xcassets/Screenshots/Cart.png">
-
-
+<img width="200" alt="Cart" src="https://github.com/Kosmonur/iOS-FakeNFT-StarterProject-Public/blob/22187aaabbff9cd57b938ca286eaf01ce8f9864c/FakeNFT/Assets.xcassets/Screenshots/Cart.png"> <img width="200" alt="Catalog" src="https://github.com/Kosmonur/iOS-FakeNFT-StarterProject-Public/blob/5a35f629dd1406431bfa25cd8f6b564ab6566f52/FakeNFT/Assets.xcassets/Screenshots/Catalog.png"> <img width="200" alt="Statistic" src="https://github.com/Kosmonur/iOS-FakeNFT-StarterProject-Public/blob/5a35f629dd1406431bfa25cd8f6b564ab6566f52/FakeNFT/Assets.xcassets/Screenshots/Statistic.png">
 
 # Видео с демонстрацией работы разделов приложения
 - [Раздел Статистика](https://disk.yandex.ru/i/4UCK28rwtm1NLw)
