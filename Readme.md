@@ -33,6 +33,8 @@
 
 ## Скриншоты
 
+<img width="200" alt="Cart" src="https://github.com/Kosmonur/iOS-FakeNFT-StarterProject-Public/blob/22187aaabbff9cd57b938ca286eaf01ce8f9864c/FakeNFT/Assets.xcassets/Screenshots/Cart.png">
+
 
 
 # Видео с демонстрацией работы разделов приложения
